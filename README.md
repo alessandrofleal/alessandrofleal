@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alessandro Leal 👋
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Aprendendo atualmente HTML, CSS, Java e C++
+- 💻 Aprendendo atualmente HTML, CSS, JS e C++
 - 😄 Pronouns: ele/dele
 
 
